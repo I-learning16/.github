@@ -26,7 +26,6 @@ Notre objectif est de proposer un CTF éducatif et accessible, permettant aux pa
 
 ## 🛠️ Technologies utilisées
 - Python 🐍
-- Flask / Django 🌐
 - Base de données (SQLite, PostgreSQL...) 🗄️
 - HTML / CSS / JavaScript 🎨
 - Outils de pentesting (Burp Suite, Wireshark, etc.) 🔍
