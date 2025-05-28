@@ -26,7 +26,7 @@ Notre objectif est de proposer un CTF éducatif et accessible, permettant aux pa
 
 ## 🛠️ Technologies utilisées
 - Python 🐍
-- Base de données (MySQL) 🗄️
+- Base de données (phpMyAdmin / MySQL) 🗄️
 - HTML / CSS / JavaScript / PHP 🎨
 - Outils de pentesting (Burp Suite, Wireshark, etc.) 🔍
 
